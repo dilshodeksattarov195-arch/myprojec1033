@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycpdate",
+        "uuid": 2856245,
+        "checksum": "rw5y5c"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
